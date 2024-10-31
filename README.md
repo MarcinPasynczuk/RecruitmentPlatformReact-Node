@@ -1,2 +1,2 @@
-# RecruitmentPlatformReact-Node
+# Recruitment Platform
 MealmarJobs written in React and Node.
